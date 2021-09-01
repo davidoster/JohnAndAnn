@@ -1,0 +1,14 @@
+John is living in a house in front of a big street.
+
+One day Ann decides to go to his house 
+and invite him for a coffee.
+
+Ann is walking towards John's house and 
+when arriving she knocks the door.
+
+John opens the door, steps out, closes the door and they leave.
+
+
+John, Ann <--- Person (extends Human), Human (abstract)
+PersonActions (interface) or HumanActions
+BuildingBlock <--- House, Street
